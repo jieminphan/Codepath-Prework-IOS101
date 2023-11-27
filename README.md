@@ -6,7 +6,7 @@ Submitted by: **Phan Jie Min**
 
 **Codepath Prework** is an app that changes the colour of background when we click the button .
 
-Time spent: **1** hour2 spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
