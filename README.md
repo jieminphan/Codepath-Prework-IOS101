@@ -21,12 +21,15 @@ file:///private/var/folders/n1/flk1d0sn6d9_dqf9w_t_j3m40000gn/T/33135cb82d0b058a
 
 ## App Brainstorming
 Favourite app 1: Telegram
+
 Favourite features: Able to send bubble videos, delete messages on both sides, send sitckers
 
 Favourite app 2: Instagram
+
 Favourite features: Able to share photos and stories, able to like contents and customise contens
 
 Favourite app 3: TimeTree
+
 Favourite features: Save your schedule, see your friends schedules and save moments.
 
 An app which I would like to build would be the ultimate social app. This app allows you to add your friends, message them, and share your moments with them. It will have a schedule sharing function as well, such that you will be able to see your friends' schedules and they can see yours. Another function I would like to add on would be the bill splitting function.
